@@ -1,0 +1,17 @@
+site_name: Receptenboek van Steven en Clara
+theme:
+   name: material
+   color_mode: auto
+   features:
+     - search.suggest
+     - navigation.path
+plugins:
+  - search
+  - tags
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: false
+      clickable_checkbox: true
