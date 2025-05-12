@@ -25,23 +25,24 @@ timetag: 30-40 minuten
 
 ## Ingredienten
 
-- [ ] 3 el olifolie
-- [ ] 1 rode ui, gesnipperd
-- [ ] 1 aubergine, in reepjes
-- [ ] 15 g verse dille, fijngesneden + extra om te garneren
-- [ ] 2 tenen knoflook, fijngesneden
-- [ ] 150 g cherrytomaten, gehalveerd
-- [ ] 400 g tomatenblokjes
-- [ ] 100 g Kalamata-oliven
-- [ ] ½ tl chilivlokken
-- [ ] 1 tl paprikapoeder
-- [ ] 2 el citroensap
-- [ ] 225 g orzo
-- [ ] 300 g halloumi, in plakken zout en peper
+```markdown
+- 3 el olifolie
+- 1 rode ui, gesnipperd
+- 1 aubergine, in reepjes
+- 15 g verse dille, fijngesneden + extra om te garneren
+- 2 tenen knoflook, fijngesneden
+- 150 g cherrytomaten, gehalveerd
+- 400 g tomatenblokjes
+- 100 g Kalamata-oliven
+- ½ tl chilivlokken
+- 1 tl paprikapoeder
+- 2 el citroensap
+- 225 g orzo
+- 300 g halloumi, in plakken zout en peper
 
 **Toppings**
-
-- [ ] geroosterde pinboompitten
+- geroosterde pijnboompitten
+```
 
 ## Bereiding
 
