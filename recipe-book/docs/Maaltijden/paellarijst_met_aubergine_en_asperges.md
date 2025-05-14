@@ -7,7 +7,6 @@ vleesvervanger: '-'
 bereidingstijd: 30
 wachttijd: 20
 personen: 2-3
-tags: []
 title: Paellarijst met aubergine en asperges
 title_normalized: paellarijst_met_aubergine_en_asperges
 timetag: 30-40 minuten
@@ -18,9 +17,9 @@ timetag: 30-40 minuten
 
 ![IMG_0486.jpeg](../../_resources/IMG_0486.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10### Voor de paella&#10&#10- 2 aubergines (of 1 grote aubergine), in hapklare stukjes oliifolie&#10- 1 ui, in kleine blokies&#10- 1 rode paprika, zaadjes verwijderd en in hapklare stukjes&#10- 1 groene paprika, zaadjes verwijderd en in hapklare stukjes&#10- 2 tl gerookte-paprikapoeder&#10- 1 groentebouillonblokje (evt. zonder gluten)&#10- ca. 10 groene asperges, houtige onderkantjes eraf, of neem bimi&#10- 100 g sperziebonen, gedopt&#10- 750 ml kokend water&#10- 250 g paellariist&#10- 1 tl kurkuma (of een paar draadjes saffraan)&#10- 100 g gegrilde artisjokharten in olie, uitgelekt&#10- 10 g peterselie, gehakt&#10- 1 citroen, gehalveerd&#10- zout en peper&#10&#10### Voor de paprika pasta&#10&#10- 1 grote trostomaat&#10- 1 rode paprika, zaadjes verwijderd en grof gehakt 1 teen knoflook&#10- 1 el oliifolie&#10&#10'> :material-content-copy: </button>
 
-**Voor de paella:**
+### Voor de paella
 
 - [ ] 2 aubergines (of 1 grote aubergine), in hapklare stukjes oliifolie
 - [ ] 1 ui, in kleine blokies
@@ -38,7 +37,7 @@ timetag: 30-40 minuten
 - [ ] 1 citroen, gehalveerd
 - [ ] zout en peper
 
-**Voor de paprika pasta:**
+### Voor de paprika pasta
 
 - [ ] 1 grote trostomaat
 - [ ] 1 rode paprika, zaadjes verwijderd en grof gehakt 1 teen knoflook

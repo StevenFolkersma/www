@@ -8,7 +8,9 @@ bereidingstijd: 10
 wachttijd: 20
 personen: 4
 allergieinfo: null
-tags: []
+tags:
+- vooruit koken
+- one pan
 title: 'Orzo met tomaat en basilicum '
 title_normalized: orzo_met_tomaat_en_basilicum_
 timetag: 10-20 minuten
@@ -19,7 +21,7 @@ timetag: 10-20 minuten
 
 ![IMG_0427.jpeg](../../_resources/IMG_0427.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 1 tl olijf olie&#10- 2 uien, gesneden&#10- 4 tenen knoflook, fijn gehakt&#10- 400 g cherry tomaatjes, gehalveerd &#10- 300g orzo&#10- 300ml groentebouillon&#10- 400 g tomatenblokjes in blik&#10- 400 ml kokos melk&#10- 400 g lima bonen, afgespoeld&#10- 1 citroen, schil en en sap.&#10- 1 tl ahorn siroop&#10- 30 g basillicum bunches of basil, in grove stukjes&#10- zout en peper&#10&#10&#10'> :material-content-copy: </button>
 
 - [ ] 1 tl olijf olie
 - [ ] 2 uien, gesneden

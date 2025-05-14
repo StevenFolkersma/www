@@ -8,7 +8,8 @@ bereidingstijd: 10
 wachttijd: 20
 personen: 3-4
 allergieinfo: null
-tags: []
+tags:
+- oven
 title: Knapperige gnocchi met prei, snijbiet en room
 title_normalized: knapperige_gnocchi_met_prei,_snijbiet_en_room
 timetag: 10-20 minuten
@@ -19,7 +20,7 @@ timetag: 10-20 minuten
 
 ![IMG_0473.jpeg](../../_resources/IMG_0473.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 2 preien, in halvemaantjes van 5 mm&#10- 200 g snijbiet (of regenboog snijbiet), grof gesneden&#10- 500 g gnocchi&#10- 80 g mascarpone&#10- 160 g slagroom (klop samen met de mascarpone)&#10- 2 grote tl dijonmosterd&#10- 1 tl zeezout versgemalen zwarte peper&#10- 125 g geitenkaas, verkruimeld&#10- 50 g panko broodkruim&#10- 1 el olijfolie&#10&#10&#10'> :material-content-copy: </button>
 
 - [ ] 2 preien, in halvemaantjes van 5 mm
 - [ ] 200 g snijbiet (of regenboog snijbiet), grof gesneden

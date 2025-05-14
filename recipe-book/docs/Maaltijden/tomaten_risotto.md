@@ -7,7 +7,6 @@ vleesvervanger: '-'
 bereidingstijd: 40
 wachttijd: 0
 personen: 2
-tags: []
 title: Tomaten risotto
 title_normalized: tomaten_risotto
 timetag: 40-60 minuten
@@ -24,7 +23,7 @@ timetag: 40-60 minuten
  	<b>TIP:</b> Als je meer groente will toevoegen, snijd dan een courgette in schijfes en doe die in de braadsle met de tomaathe en / of roer op het laatst een handvol spinazie door de risotto.
  </b-notice>
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 150 g zongedroogde (of halfgedroogde) tomaten in olie, fijngehakt, &#10- 3 el olie uit de pot zongedroogde tomaten &#10- 1 ui, fijngehakt&#10- 2 tenen knoflook, fijngehakt&#10- 2 stengels bleekselderij, fijngehakt&#10- 2 grote tomaten&#10- 2 tl gedroogde rozemarijn&#10- 250 g risottorijst&#10- 1 tl miso&#10- 200 ml kokend water&#10- 400 ml kokosmelk&#10- 3 el tomatenpuree&#10- ca. 30 kerstomaatjes, in plakjes &#10- olijfolie&#10- handvol basilicum &#10- 1 el edelgistvlokken &#10- zout en peper&#10&#10'> :material-content-copy: </button>
 
 - [ ] 150 g zongedroogde (of halfgedroogde) tomaten in olie, fijngehakt, 
 - [ ] 3 el olie uit de pot zongedroogde tomaten 
@@ -38,7 +37,11 @@ timetag: 40-60 minuten
 - [ ] 200 ml kokend water
 - [ ] 400 ml kokosmelk
 - [ ] 3 el tomatenpuree
-- [ ] ca. 30 kerstomaatjes, in plakjes oliifolie handvol basilicum 1 el edelgistvlokken zout en peper
+- [ ] ca. 30 kerstomaatjes, in plakjes 
+- [ ] olijfolie
+- [ ] handvol basilicum 
+- [ ] 1 el edelgistvlokken 
+- [ ] zout en peper
 
 ## Bereiding
 

@@ -5,7 +5,7 @@ pagina: 40
 bereidingstijd: 25
 wachttijd: 50
 personen: 8
-tags: []
+tags: null
 title: Quinoa granola met miso en chocola
 title_normalized: quinoa_granola_met_miso_en_chocola
 timetag: 20-30 minuten
@@ -15,7 +15,7 @@ timetag: 20-30 minuten
 
 ![IMG_0471.jpeg](../../_resources/IMG_0471.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 2 tablespoons ground flaxseeds&#10- 50g dark (bittersweet) chocolate chips, plus extra to taste&#10- 65g coconut oil, melted&#10- 30g miso paste&#10- 120g rolled oats&#10- 30g tricolour quinoa&#10- 120g (4oz) unsalted mixed nuts (raw or toasted; I used hazelnuts, walnuts, pecans and cashews)&#10- 50g (1¾oz) mixed seeds (I used shelled hemp seeds, black and white sesame seeds and chic seeds)&#10- 20g (¾0z) raw cacao powder&#10- 100ml (3½fl oz/scant ½ cUp)&#10- maple syrup&#10- 2 teaspoons vanilla extract&#10- pinch of salt&#10&#10'> :material-content-copy: </button>
 
 - [ ] 2 tablespoons ground flaxseeds
 - [ ] 50g dark (bittersweet) chocolate chips, plus extra to taste
@@ -29,7 +29,7 @@ timetag: 20-30 minuten
 - [ ] 100ml (3½fl oz/scant ½ cUp)
 - [ ] maple syrup
 - [ ] 2 teaspoons vanilla extract
-- [ ] Pinch of salt
+- [ ] pinch of salt
 
 ## Bereiding
 

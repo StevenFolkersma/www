@@ -8,7 +8,8 @@ bereidingstijd: 10
 wachttijd: 30
 personen: 2-3
 allergieinfo: null
-tags: []
+tags:
+- oven
 title: Pasta schotel met gegrilde prei en champignons
 title_normalized: pasta_schotel_met_gegrilde_prei_en_champignons
 timetag: 10-20 minuten
@@ -19,7 +20,7 @@ timetag: 10-20 minuten
 
 ![IMG_0475.jpeg](../../_resources/IMG_0475.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 200 g tagliatelle&#10- 2 preien, in halvemaantjes van 5 mm&#10- 250 g kastanjechampignons, grof gesneden&#10- 300 ml crème fraîche&#10- 1 el olijfolie, plus extra om mee te bakken&#10- 1 tl zeezout&#10- 10 takjes verse tijm, de blaadjes&#10- 75 g cheddar, of Goudse kaas&#10- 100 g panko broodkruim&#10&#10'> :material-content-copy: </button>
 
 - [ ] 200 g tagliatelle
 - [ ] 2 preien, in halvemaantjes van 5 mm

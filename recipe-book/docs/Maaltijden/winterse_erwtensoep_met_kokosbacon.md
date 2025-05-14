@@ -8,7 +8,8 @@ bereidingstijd: 30
 wachttijd: 50
 personen: 6
 allergieinfo: null
-tags: []
+tags:
+- soep
 title: Winterse erwtensoep met kokosbacon
 title_normalized: winterse_erwtensoep_met_kokosbacon
 timetag: 30-40 minuten
@@ -19,7 +20,7 @@ timetag: 30-40 minuten
 
 ![IMG_0423.jpeg](../../_resources/IMG_0423.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10**Erwtensoep**&#10&#10- 400 g spliterwten&#10- 2 laurierblaadjes&#10- 1.7 l groentebouillon&#10- 1 ui, gesnipperd&#10- 2 preien, in dunne ringen&#10- 400 g winterpeen, in plakjes&#10- 1 knolselderij, geschild en in blokjes&#10- 5 g verse selderij, fijngehakt&#10- 300 g aardappels, geschild en blokjes&#10- peper en zout, naar smaak&#10&#10**Kokosbacon**&#10&#10- 70 g kokosvlokken&#10- 5 el sojasaus &#10- 2 tl gerookte-paprikapoeder&#10- 2 el agavesiroop&#10- 1 tl knoflookpoeder&#10&#10'> :material-content-copy: </button>
 
 **Erwtensoep**
 

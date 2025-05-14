@@ -8,7 +8,8 @@ bereidingstijd: 35
 wachttijd: 45
 personen: 5
 allergieinfo: null
-tags: []
+tags:
+- oven
 title: 'Linzen lasagna '
 title_normalized: linzen_lasagna_
 timetag: 30-40 minuten
@@ -19,12 +20,13 @@ timetag: 30-40 minuten
 
 ![IMG_0383.jpeg](../../_resources/IMG_0383.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10**Voor de lasagna:**&#10&#10- 175 g lasagnebladen&#10- 125 g geraspte kaas naar keuze zout en peper&#10&#10**Voor de linzen-tomatensaus:**&#10&#10- 2 el olifolie&#10- 1 ui, gesnipperd&#10- 3 tenen knoflook, fijngesneden&#10- 1 tl gemalen komin&#10- 1 tl paprikapoeder&#10- 1 tl chilivlokken&#10- 1 el tomatenpuree&#10- 1 winterpeen, in kleine blokies&#10- 690 g tomatenpassata&#10- 2 blikken bruine linzen (à 400 g), afgespoeld en witgelekt 200 g spinazie&#10&#10**Voor de ricottavulling:**&#10&#10- 250 g ricotta&#10- 30 g parmigiano reggiano, geraspt&#10- 1 tl citroenrasp&#10- 1 el citroensap zout en peper&#10&#10**Voor de knoflook-tomatenboter: (optioneel)**&#10&#10- 50 g boter&#10- 1 teen knoflook, fingesneden&#10- 1 el tomatenpuree&#10- ½ tl chilivlokken&#10- 2 el water zout&#10&#10**Toppings: (optioneel)**&#10&#10- 200 g Griekse yoghurt &#10- verse dille&#10&#10'> :material-content-copy: </button>
 
 **Voor de lasagna:**
 
 - [ ] 175 g lasagnebladen
 - [ ] 125 g geraspte kaas naar keuze zout en peper
+
 **Voor de linzen-tomatensaus:**
 
 - [ ] 2 el olifolie
@@ -44,6 +46,7 @@ timetag: 30-40 minuten
 - [ ] 30 g parmigiano reggiano, geraspt
 - [ ] 1 tl citroenrasp
 - [ ] 1 el citroensap zout en peper
+
 **Voor de knoflook-tomatenboter: (optioneel)**
 
 - [ ] 50 g boter
@@ -51,6 +54,7 @@ timetag: 30-40 minuten
 - [ ] 1 el tomatenpuree
 - [ ] ½ tl chilivlokken
 - [ ] 2 el water zout
+
 **Toppings: (optioneel)**
 
 - [ ] 200 g Griekse yoghurt 

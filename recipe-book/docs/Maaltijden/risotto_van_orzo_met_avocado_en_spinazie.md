@@ -8,7 +8,7 @@ bereidingstijd: 15
 wachttijd: 0
 personen: 4
 allergieinfo: null
-tags: []
+tags: null
 title: Risotto van orzo met avocado en spinazie
 title_normalized: risotto_van_orzo_met_avocado_en_spinazie
 timetag: 10-20 minuten
@@ -19,7 +19,7 @@ timetag: 10-20 minuten
 
 ![IMG_0425.jpeg](../../_resources/IMG_0425.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 2 el olifolie&#10- 1 rode ui, gesnipperd&#10- 3 teentjes knoflook, fijngesneden&#10- 1 el Italiaanse kruiden&#10- 300 g orzo&#10- 300 mI groentebouillon&#10- 400 ml plantaardige melk&#10- 300 g verse spinazie &#10- sap van ½ limoen&#10- 1 tl mosterd&#10- 2 avocado's, in blokjes&#10- 5 g verse basilicum, fijngehakt&#10- peper en zout, naar smaak&#10&#10'> :material-content-copy: </button>
 
 - [ ] 2 el olifolie
 - [ ] 1 rode ui, gesnipperd
@@ -32,8 +32,8 @@ timetag: 10-20 minuten
 - [ ] sap van ½ limoen
 - [ ] 1 tl mosterd
 - [ ] 2 avocado's, in blokjes
-- [ ] 5 g verse basilicum, fingehakt
-- [ ] Peper en zout, naar smaak
+- [ ] 5 g verse basilicum, fijngehakt
+- [ ] peper en zout, naar smaak
 
 ## Bereiding
 

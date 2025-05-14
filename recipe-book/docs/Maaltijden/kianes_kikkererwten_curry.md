@@ -8,7 +8,7 @@ bereidingstijd: 15
 wachttijd: 0
 personen: 2-3
 allergieinfo: null
-tags: []
+tags: null
 title: Kiane's kikkererwten curry
 title_normalized: kianes_kikkererwten_curry
 timetag: 10-20 minuten
@@ -19,7 +19,7 @@ timetag: 10-20 minuten
 
 
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 225 g rijst&#10- 400 g kikkererwten&#10- 450 g kant-en-klare Butter chicken saus&#10- 200 g verse spinazie&#10&#10'> :material-content-copy: </button>
 
 - [ ] 225 g rijst
 - [ ] 400 g kikkererwten

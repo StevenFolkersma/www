@@ -8,7 +8,7 @@ bereidingstijd: 30
 wachttijd: 0
 personen: 5
 allergieinfo: null
-tags: []
+tags: null
 title: Champignon-kokos curry met rijst
 title_normalized: champignon-kokos_curry_met_rijst
 timetag: 30-40 minuten
@@ -19,7 +19,7 @@ timetag: 30-40 minuten
 
 ![IMG_0419.jpeg](../../_resources/IMG_0419.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 350 g rijst&#10- 2 el olifolie&#10- 1 ui, gesnipperd&#10- 3 teentjes knoflook, fijngesneden&#10- 1 rode peper, in dunne ringen&#10- 2 rode paprika's, in blokjes&#10- 1 tl komijnpoeder&#10- 1 tl korianderpoeder&#10- 1 tl gemberpoeder&#10- 250 g champignons, grof gehakt&#10- 400 g tomatenblokies uit blik&#10- 400 g kokosmelk uit blik&#10- 650 g kidneybonen uit blik, uitgelekt&#10- 2 el tahin&#10- 200 g verse spinazie &#10- verse koriander, fijngesneden (optioneel)&#10- peper en zout, naar smaak&#10&#10&#10'> :material-content-copy: </button>
 
 - [ ] 350 g rijst
 - [ ] 2 el olifolie

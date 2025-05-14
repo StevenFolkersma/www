@@ -6,7 +6,7 @@ bereidingstijd: 15
 wachttijd: 20
 personen: 6
 allergieinfo: null
-tags: []
+tags: null
 title: Pulled aubergine dip
 title_normalized: pulled_aubergine_dip
 timetag: 10-20 minuten
@@ -17,7 +17,7 @@ timetag: 10-20 minuten
 
 ![IMG_0410.jpeg](../../_resources/IMG_0410.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 4 aubergines&#10- 2 el tahin &#10- sap van 1 citroen&#10- 2 el gladde amandelpasta&#10- 2 el ahornsiroop (optioneel)&#10- 250 g halfgedroogde tomaten in olie, in stukjes van 1 cm gehakt&#10- 3 tenen knoflook, geroosterd en grof gehakt&#10- handvol peterselie, grof gehakt &#10- grote handvol pijnboompitten, geroosterd (optioneel).&#10- olijfolie &#10- zout&#10&#10'> :material-content-copy: </button>
 
 - [ ] 4 aubergines
 - [ ] 2 el tahin 

@@ -8,7 +8,7 @@ bereidingstijd: 30
 wachttijd: 0
 personen: 5
 allergieinfo: null
-tags: []
+tags: null
 title: Nasi met tofu sate
 title_normalized: nasi_met_tofu_sate
 timetag: 30-40 minuten
@@ -19,7 +19,14 @@ timetag: 30-40 minuten
 
 ![IMG_0421.jpeg](../../_resources/IMG_0421.jpeg)
 
-## Ingredienten
+<b-notice>
+ 	<b>TIP:</b> Je natuurlijjk ook gewoon pindasaus kopen in de supermarkt i.p.v. zelf maken
+ </b-notice>
+ <b-notice>
+ 	<b>TIP:</b> Je kunt ook tofu 'kipstukjes' maken i.p.v. de sate, zie onder.
+ </b-notice>
+
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10**Voor de nasi**&#10&#10- 350 g (zilvervlies) rijst&#10- 1 el zonnebloemolie&#10- 1 ui, in halve ringen&#10- 1 rode paprika, in stukjes&#10- 3 wortels, in kleine blokjes&#10- 500 g broccoli, in roosjes&#10- 2 el ketjap manis&#10- 2 el soiasaus of tamari&#10- 2 el citroensap&#10- ½ tl gemberpoeder&#10- ½ tl chilivlokken&#10- peper en zout, naar smaak&#10&#10**Voor de tofusaté**&#10&#10- 500 g stevige tofu, in blokjes&#10- 3 el maïzena&#10- 3-4 el olijfolie&#10- 3 teenties knoflook, fijngesneden &#10- ½ tl gemberpoeder &#10- 65 g 100% pindakaas&#10- 3 el sojasaus of tamari&#10- 1 tl sambal oelek&#10- 250 ml plantaardige melk&#10&#10**Garnering (optioneel)**&#10- bosui, in dunne ringen&#10- pinda's, fijngehakt&#10&#10'> :material-content-copy: </button>
 
 **Voor de nasi**
 
@@ -49,16 +56,8 @@ timetag: 30-40 minuten
 - [ ] 250 ml plantaardige melk
 
 **Garnering (optioneel)**
-
 - [ ] bosui, in dunne ringen
 - [ ] pinda's, fijngehakt
-
-<b-notice>
- 	<b>TIP:</b> Je natuurlijjk ook gewoon pindasaus kopen in de supermarkt i.p.v. zelf maken
- </b-notice>
- <b-notice>
- 	<b>TIP:</b> Je kunt ook tofu 'kipstukjes' maken i.p.v. de sate, zie onder.
- </b-notice>
 
 ## Bereiding
 

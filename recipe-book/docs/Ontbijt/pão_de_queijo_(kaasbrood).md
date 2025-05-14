@@ -8,7 +8,8 @@ personen: 6
 allergie:
 - notenvrij
 - nog iets
-tags: []
+tags:
+- Braziliaans
 title: Pão de queijo (Kaasbrood)
 title_normalized: pão_de_queijo_(kaasbrood)
 timetag: 20-30 minuten
@@ -19,7 +20,7 @@ timetag: 20-30 minuten
 
 ![kaasbrood.jpg](../../_resources/kaasbrood.jpg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 500 g povilho doce&#10- 500 g povilho azedo&#10- 3 eieren&#10- 600 ml (plantaardige) melk&#10- 200 ml zonnebloemolie&#10- geraspte kaas, ik gebruik 1 pakje belegen 48+ kaas&#10- zout&#10&#10'> :material-content-copy: </button>
 
 - [ ] 500 g povilho doce
 - [ ] 500 g povilho azedo

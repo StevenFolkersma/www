@@ -7,7 +7,8 @@ vleesvervanger: tofu
 bereidingstijd: 15
 wachttijd: 0
 personen: 2-3
-tags: []
+tags:
+- vooruit koken
 title: Gebakken rijst met groenten
 title_normalized: gebakken_rijst_met_groenten
 timetag: 10-20 minuten
@@ -18,7 +19,7 @@ timetag: 10-20 minuten
 
 ![IMG_0413.jpeg](../../_resources/IMG_0413.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 4 el sesamolie&#10- 1 rode ui, fijngehakt&#10- 3 lente-uien, fijngehakt&#10- 2 tenen knoflook, fijngehakt&#10- 2 tl kurkuma&#10- 400 g tofu, in blokjes van 1 cm&#10- 200 g diepvriesdoperwten&#10- 2 rode paprika's, in blokjes van 1 cm&#10- 100 g spinazie (ca. 2 handen vol)&#10- 500 g basmatie rijst&#10- zout en peper&#10- sweet chili saus&#10&#10'> :material-content-copy: </button>
 
 - [ ] 4 el sesamolie
 - [ ] 1 rode ui, fijngehakt

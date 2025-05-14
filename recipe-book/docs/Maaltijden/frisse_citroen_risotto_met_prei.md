@@ -8,7 +8,7 @@ bereidingstijd: 30
 wachttijd: 0
 personen: 4
 allergieinfo: null
-tags: []
+tags: null
 title: Frisse citroen risotto met prei
 title_normalized: frisse_citroen_risotto_met_prei
 timetag: 30-40 minuten
@@ -19,7 +19,7 @@ timetag: 30-40 minuten
 
 ![IMG_0417.jpeg](../../_resources/IMG_0417.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 2 el olijfolie&#10- 1 ui, gesnipperd&#10- 3 teentjes knoflook, fijngesneden&#10- 300 g risottorijst&#10- 150 ml droge witte wijn (of extra groentebouillon)&#10- 500 ml hete groentebouillon&#10- 400 ml kokosmelk uit blik (of 400 ml andere plantaardige melk)&#10- 1 grote prei, in ringen&#10- 3 el edelgistvlokken&#10- 225 g diepvriesdoperwten&#10- sap en rasp van ½ biologische citroen&#10- optioneel: verse munt, fijngehakt&#10- peper en zout, naar smaak&#10&#10'> :material-content-copy: </button>
 
 - [ ] 2 el olijfolie
 - [ ] 1 ui, gesnipperd

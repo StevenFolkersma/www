@@ -5,7 +5,8 @@ pagina: '-'
 bereidingstijd: 20
 wachttijd: 65
 personen: 6
-tags: []
+tags:
+- cake
 title: Banana bread
 title_normalized: banana_bread
 timetag: 20-30 minuten
@@ -20,7 +21,7 @@ timetag: 20-30 minuten
  	<b>TIP:</b> Cream Cheese Frosting: Klop je 115 g zachte roomkaas en 60 g zachte ongezouten boter samen tot een gladde massa. Klop er dan 120 g suiker, een 1/2 tl vanille suiker en een snufje zout in tot het is gemengd. 
  </b-notice>
  
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 250 g (tarwe)bloem&#10- 1 tl bakpoeder (baksoda)&#10- 1/4 tl zout&#10- 1/2 tl kaneel&#10- 115 ongezouten roomboter, op kamertemperatuur&#10- 150 g lichte of donkere basterdsuiker&#10- 2 eieren&#10- 80 g yoghurt&#10- 345 g geprakte banaan (ongeveer 3-4 grote rijpe bananen)&#10- 1 tl vanille suiker / extract&#10- optioneel: 100 g pecan noten (in kleine stukjes)&#10&#10'> :material-content-copy: </button>
 
 - [ ] 250 g (tarwe)bloem
 - [ ] 1 tl bakpoeder (baksoda)

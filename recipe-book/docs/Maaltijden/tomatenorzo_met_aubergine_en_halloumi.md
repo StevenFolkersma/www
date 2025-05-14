@@ -8,7 +8,7 @@ bereidingstijd: 30
 wachttijd: 0
 personen: 3-4
 allergieinfo: null
-tags: []
+tags: null
 title: Tomatenorzo met aubergine en halloumi
 title_normalized: tomatenorzo_met_aubergine_en_halloumi
 timetag: 30-40 minuten
@@ -23,26 +23,25 @@ timetag: 30-40 minuten
  	<b>TIP:</b> Serveer de halloumi wanner deze warm is. Als halloumi at-koelt, wordt de textuur namellik wat taaier.
  </b-notice>
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 3 el olifolie&#10- 1 rode ui, gesnipperd&#10- 1 aubergine, in reepjes&#10- 15 g verse dille, fijngesneden + extra om te garneren&#10- 2 tenen knoflook, fijngesneden&#10- 150 g cherrytomaten, gehalveerd&#10- 400 g tomatenblokjes&#10- 100 g Kalamata-oliven&#10- ½ tl chilivlokken&#10- 1 tl paprikapoeder&#10- 2 el citroensap&#10- 225 g orzo&#10- 300 g halloumi, in plakken zout en peper&#10&#10**Toppings**&#10&#10- geroosterde pinboompitten&#10&#10'> :material-content-copy: </button>
 
-```markdown
-- 3 el olifolie
-- 1 rode ui, gesnipperd
-- 1 aubergine, in reepjes
-- 15 g verse dille, fijngesneden + extra om te garneren
-- 2 tenen knoflook, fijngesneden
-- 150 g cherrytomaten, gehalveerd
-- 400 g tomatenblokjes
-- 100 g Kalamata-oliven
-- ½ tl chilivlokken
-- 1 tl paprikapoeder
-- 2 el citroensap
-- 225 g orzo
-- 300 g halloumi, in plakken zout en peper
+- [ ] 3 el olifolie
+- [ ] 1 rode ui, gesnipperd
+- [ ] 1 aubergine, in reepjes
+- [ ] 15 g verse dille, fijngesneden + extra om te garneren
+- [ ] 2 tenen knoflook, fijngesneden
+- [ ] 150 g cherrytomaten, gehalveerd
+- [ ] 400 g tomatenblokjes
+- [ ] 100 g Kalamata-oliven
+- [ ] ½ tl chilivlokken
+- [ ] 1 tl paprikapoeder
+- [ ] 2 el citroensap
+- [ ] 225 g orzo
+- [ ] 300 g halloumi, in plakken zout en peper
 
 **Toppings**
-- geroosterde pijnboompitten
-```
+
+- [ ] geroosterde pinboompitten
 
 ## Bereiding
 

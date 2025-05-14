@@ -8,7 +8,7 @@ bereidingstijd: 30
 wachttijd: 0
 personen: 4
 allergieinfo: null
-tags: []
+tags: null
 title: Groene quinoa risotto
 title_normalized: groene_quinoa_risotto
 timetag: 30-40 minuten
@@ -19,7 +19,7 @@ timetag: 30-40 minuten
 
 ![IMG_0484.jpeg](../../_resources/IMG_0484.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 1 ui, fijngehakt&#10- 1 teen knoflook, fijngehakt &#10- olijfolie&#10- 175 g quinoa&#10- 1 groentebouillonblokje&#10- 400 ml kokend water&#10- ca. 15 groene asperges (of neem 15 bimistengels)&#10- 1 courgette, in de lengte gehalveerd en dan in halvemaantjes&#10- 150 g diepvriesdoperwten&#10- sap van 1 citroen&#10- 1 tl dijonmosterd&#10- 3 el amandel- of havermelk&#10- 1 tl edelgistvlokken&#10- handvol rucola&#10- zout en peper&#10&#10'> :material-content-copy: </button>
 
 - [ ] 1 ui, fijngehakt
 - [ ] 1 teen knoflook, fijngehakt 

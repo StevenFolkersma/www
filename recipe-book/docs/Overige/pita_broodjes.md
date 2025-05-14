@@ -5,7 +5,6 @@ pagina: 26
 bereidingstijd: 20
 wachttijd: 70
 personen: 2-3
-tags: []
 title: Pita broodjes
 title_normalized: pita_broodjes
 timetag: 20-30 minuten
@@ -19,7 +18,7 @@ timetag: 20-30 minuten
 
 <b-notice>**TIP:** Heb je pita's over? Je kunt ze makkelijk invriezen. Vers bliven ze 1-2 dagen lekker.</b-notice>
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 7 g gedroogde gist&#10- 1 el agavesiroop of ahornsiroop&#10- 300 ml lauwwarm water&#10- 500 g tarwebloem (dit recept werkt ook met 400 g volkorenmeel en 100 g tarwebloem)&#10- 10 g zout&#10- 15 g olijfolie + extra om in vetten&#10&#10'> :material-content-copy: </button>
 
 - [ ] 7 g gedroogde gist
 - [ ] 1 el agavesiroop of ahornsiroop

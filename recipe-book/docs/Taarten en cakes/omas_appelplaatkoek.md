@@ -5,7 +5,8 @@ pagina: '-'
 bereidingstijd: 20
 wachttijd: 45
 personen: 6
-tags: []
+tags:
+- cake
 title: Oma's appelplaatkoek
 title_normalized: omas_appelplaatkoek
 timetag: 20-30 minuten
@@ -16,7 +17,7 @@ timetag: 20-30 minuten
 
 
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 250 g havermout&#10- 500 g zelfrijzendbakmeel&#10- 500 g donkere basterdsuiker&#10- 400 g ongezouten roomboter, gesmolten&#10- 6 tot 8 appels&#10- kaneel&#10- optioneel: suiker&#10&#10'> :material-content-copy: </button>
 
 - [ ] 250 g havermout
 - [ ] 500 g zelfrijzendbakmeel

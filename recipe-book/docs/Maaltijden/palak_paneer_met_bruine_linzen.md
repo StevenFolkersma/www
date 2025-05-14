@@ -8,7 +8,8 @@ bereidingstijd: 40
 wachttijd: 0
 personen: 4
 allergieinfo: null
-tags: []
+tags:
+- Indiaas
 title: Palak Paneer met bruine linzen
 title_normalized: palak_paneer_met_bruine_linzen
 timetag: 40-60 minuten
@@ -19,7 +20,7 @@ timetag: 40-60 minuten
 
 ![IMG_0485.jpeg](../../_resources/IMG_0485.jpeg)
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 2 el neutrale olie&#10- 1 el kominzaad&#10- 1 ui&#10- 3 cm gember, fijngesneden&#10- 4 teentjes knoflook, fingesneder&#10- 2 el garam masala&#10- 1 el kurkuma&#10- 1 el gemalen korianderzaad&#10- ½ ti chilivlokken of cayennepeper&#10- 1 trostomaat, in blokjes&#10- 400 g spinazie&#10- 200 ml romige kokosmelk uit blik&#10- 1 tl zout&#10- 300 g paneer of stevige tofu, in blokjes&#10- 400 g bruine linzen, uitgelekt en afgespoeld&#10&#10**Om te serveren**&#10&#10- knoflooknaan (zie [link])&#10- 300 g basmatirijst&#10&#10'> :material-content-copy: </button>
 
 - [ ] 2 el neutrale olie
 - [ ] 1 el kominzaad
@@ -36,7 +37,9 @@ timetag: 40-60 minuten
 - [ ] 1 tl zout
 - [ ] 300 g paneer of stevige tofu, in blokjes
 - [ ] 400 g bruine linzen, uitgelekt en afgespoeld
+
 **Om te serveren**
+
 - [ ] knoflooknaan (zie [link])
 - [ ] 300 g basmatirijst
 

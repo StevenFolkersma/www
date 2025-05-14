@@ -7,7 +7,8 @@ vleesvervanger: tofu
 bereidingstijd: 30
 wachttijd: 0
 personen: 2
-tags: []
+tags:
+- soep
 title: Ramen noodles soep
 title_normalized: ramen_noodles_soep
 timetag: 30-40 minuten
@@ -17,7 +18,7 @@ timetag: 30-40 minuten
 # Ramen noodles soep
 
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='&#10- 1 el curry pasta&#10- 2- 3 stengels paksoi, in grove stukken&#10- 2 bosuien, in kleine ringen&#10- 3 teentjes knoflook, , fijngehakt&#10- 150 g ramen noodles&#10- 250 ml kokos melk&#10- 500 ml water&#10- 1 groentebouillon blokje&#10- 1 el miso&#10- 1 limoen&#10- 1/2 tl vetsin&#10- 350 g tofu&#10- optioneel: 150 g champions&#10- optioneel: 4 gyoza's&#10&#10'> :material-content-copy: </button>
 
 - [ ] 1 el curry pasta
 - [ ] 2- 3 stengels paksoi, in grove stukken

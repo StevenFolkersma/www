@@ -7,7 +7,8 @@ vleesvervanger: lima bonen
 bereidingstijd: 20
 wachttijd: 0
 personen: 2
-tags: []
+tags:
+- vooruit koken
 title: Broccoli en doperwten pasta
 title_normalized: broccoli_en_doperwten_pasta
 timetag: 20-30 minuten
@@ -25,7 +26,8 @@ timetag: 20-30 minuten
  	<b>TIP:</b>  You can make a variation using whatever greens you have in the fridge - green beans, asparagus, spinach etc.
  </b-notice>
 
-## Ingredienten
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text='None'> :material-content-copy: </button> 
+
 - [ ] 250 g pasta
 - [ ] 1 broccoli (ca. 300g), in hapklare blokjes
 - [ ] 100 g doperwten
@@ -38,6 +40,7 @@ timetag: 20-30 minuten
 - [ ] zout en peper
 
 ## Bereiding
+
 1.  Bring a large saucepan of salted water to the boil and add the pasta. Cook according to the instructions on the pack, adding the broccoli and frozen peas for the last 3 minutes of the cooking time. Cook until the pasta is al dente, the broccoli is tender, and the peas are defrosted, then drain and return to the pan.
 2.  Meanwhile, put the cashews and stock cube into a bowl with 100ml boiling water, let the stock cube dissolve and the cashews soak for s minutes.
 3.  Put the mustard, nutritional yeast, the juice of both lemons and half the zest, and half the tin of butter beans into a high-speed blender along with the cashews and their soaking liquid. Blend until you have a smooth, creamy sauce. Season with salt and pepper to taste.

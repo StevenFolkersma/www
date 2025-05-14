@@ -8,7 +8,7 @@ bereidingstijd: 20
 wachttijd: 0
 personen: 2-3
 allergieinfo: null
-tags: []
+tags: null
 title: Gnocchi met zongedroogde tomaat en ricotta
 title_normalized: gnocchi_met_zongedroogde_tomaat_en_ricotta
 timetag: 20-30 minuten
@@ -19,8 +19,7 @@ timetag: 20-30 minuten
 
 
 
-## Ingredienten
-
+## Ingredienten <button class ='custom-copy-button' data-clipboard-text=' - 250 g gnocchi&#10 - 150 g zongedroogde tomaat&#10 - 250 g pasta saus Ricotta (AH)&#10 - 150 g ricotta&#10 - 200 g bimi &#10 - 3 tenen knoflook, fijngehakt&#10 - 40 g parmezaanse kaas&#10&#10&#10'> :material-content-copy: </button>
  - [ ] 250 g gnocchi
  - [ ] 150 g zongedroogde tomaat
  - [ ] 250 g pasta saus Ricotta (AH)
