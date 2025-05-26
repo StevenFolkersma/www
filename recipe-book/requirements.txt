@@ -1,0 +1,7 @@
+mkdocs
+mkdocs-exclude-search
+mkdocs-get-deps
+mkdocs-material
+mkdocs-material-extensions
+pygments
+pymdown-extensions
