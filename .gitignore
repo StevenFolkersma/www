@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
+pyproject.toml
+
+# Virtual environments
+.venv
+
+# I only need the site folder, so everything else is ignored
+docs/
+mkdocs.yml
